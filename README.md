@@ -15,6 +15,17 @@
 
 - 📄 Know about my experiences [http://arif.jumriz.com/](http://arif.jumriz.com/)
 
+🚀 Technologies I work with:
+
+💻 Programming Languages:
+PHP | JavaScript
+
+🎨 Frontend Frameworks & Libraries:
+JQuery | Vue.js | Nuxt.js | React.js | React Native | Next.js
+
+🧠 Backend & Server-Side:
+Laravel | Node.js | Express.js | NestJS
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arifuzzaman31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arifuzzaman31" height="30" width="40" /></a>
