@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arifuzzaman.rb@gmail.com**
 
-- 📄 Know about my experiences [http://arif.jumriz.com/](http://arif.jumriz.com/)
+- 📄 Know about my experiences [http://arif.jumriz.com/](https://benevolent-tiger.static2.website/arifuzzaman-portfolio)
 
 🚀 Technologies I work with:
 
